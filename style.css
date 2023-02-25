@@ -7,6 +7,11 @@ h1{
     font-size: 50px;
 }
 
+.exp-header{
+    text-align:center;
+width: 30%;
+}
+
 .orange-color{
     color: orange;
 }
